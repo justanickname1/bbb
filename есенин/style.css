@@ -1,0 +1,28 @@
+h1{
+	font-family: Poiret One;
+	text-align: center;
+}
+.mainblock{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	font-family: Poiret One;
+	width: 100%;
+	height: auto;
+}
+.image{
+	position: relative;
+	top: 25px;
+	left: 25%;
+	width: 100%;
+}
+.poems{
+	position: relative;
+	top: 25px;
+	left: 35%;
+}
+.bio{
+	position: relative;
+	top: 25px;
+	right: 35%;
+}
